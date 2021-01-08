@@ -16,7 +16,7 @@
 ### Resources
 
 - Article/Guide
-- Coming Soon! Checkout my articles while you wait https://medium.com/@steven_creates
+- https://medium.com/@steven_creates/how-to-use-react-hooks-usecontext-and-usereducer-with-typescript-f616067248dd
 
 
 
