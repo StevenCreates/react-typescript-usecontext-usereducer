@@ -6,7 +6,7 @@
 - Clone Repo
 - Npm install
 
-## Common VsCode Error
+## Common VsCode Error!!
 - Cannot use JSX unless the '--jsx' flag is provided
 ### Resolution: 
 - Go to the command palette CTRL+Shift+P.
